@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f77fd3; 
+    <body style="background-color: #f77fd3;">
+
+}
+
+h1 {
+    color: #1a1270;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ADD8E6;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.banner {
+    background-color: #5cc8ec; 
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.navbar a {
+    color: #fff;
+    margin: 0 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.navbar a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.table th, .table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.table thead {
+    background-color: #333;
+    color: #fff;
+}
+
+.email-link {
+    text-decoration: underline;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.gallery img {
+    width: 25%;
+    object-fit: cover;
+}
+
+.newsletter {
+    font-size: 24px;
+    font-weight: bold;
+    color: #CCCCFF;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.coming-soon {
+    color: #6B6B6B;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 20px;
+}
+
