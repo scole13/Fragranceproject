@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f77fd3; 
+    background-color: #f7c5e8; 
     <body style="background-color: #f77fd3;">
 
 }
@@ -12,7 +12,7 @@ h1 {
 h2 {
     font-size: 24px;
     font-weight: bold;
-    color: #ADD8E6;
+    color: #612c48;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 20px;
@@ -24,12 +24,12 @@ a {
 }
 
 a:hover {
-    color: #23527c;
+    color: #5589b7;
     text-decoration: underline;
 }
 
 .banner {
-    background-color: #5cc8ec; 
+    background-color: #edc1fe; 
     padding: 20px;
     font-size: 24px;
     font-weight: bold;
@@ -44,7 +44,7 @@ a:hover {
 }
 
 .navbar a {
-    color: #fff;
+    color: #dddcdc;
     margin: 0 10px;
     padding: 5px 10px;
     border-radius: 5px;
@@ -52,7 +52,7 @@ a:hover {
 
 .navbar a:hover {
     background-color: #fff;
-    color: #333;
+    color: #333333;
 }
 
 .container {
@@ -110,4 +110,6 @@ a:hover {
     margin-bottom: 200px;
     margin-left: 20px;
 }
+
+
 
